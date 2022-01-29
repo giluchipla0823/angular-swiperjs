@@ -8,9 +8,9 @@
     "strict": false,
     "noImplicitReturns": true,
     "paths": {
-      "glcp-ng-swiperjs": [
-        "dist/glcp-ng-swiperjs/glcp-ng-swiperjs",
-        "dist/glcp-ng-swiperjs"
+      "glcp-ng-swiper": [
+        "dist/glcp-ng-swiper/glcp-ng-swiper",
+        "dist/glcp-ng-swiper"
       ]
     },
     "noFallthroughCasesInSwitch": true,

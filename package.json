@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "build:swiper": "ng build glcp-ng-swiperjs"
+    "build:swiper": "ng build glcp-ng-swiper"
   },
   "private": true,
   "dependencies": {

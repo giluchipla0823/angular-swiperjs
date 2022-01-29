@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { SwiperComponent } from './swiper.component';
+import { SwiperComponent } from './swiper/swiper.component';
 
 @NgModule({
   declarations: [
@@ -13,4 +13,4 @@ import { SwiperComponent } from './swiper.component';
     SwiperComponent
   ]
 })
-export class SwiperModule { }
+export class GlcNgSwiperModule { }

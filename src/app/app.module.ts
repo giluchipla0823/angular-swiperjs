@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { SwiperModule } from "glcp-ng-swiperjs";
+import { GlcNgSwiperModule } from "glcp-ng-swiper";
 
 import { AppComponent } from './app.component';
 
@@ -10,7 +10,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    SwiperModule
+    GlcNgSwiperModule
   ],
   providers: [],
   bootstrap: [AppComponent]
