@@ -1,0 +1,23 @@
+{
+  "name": "glcp-ng-swiperjs",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "swiper": "^6.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giluchipla0823/angular-swiperjs"
+  },
+  "keywords": [],
+  "author": "Gino Luiggi Chirinos Plasencia <luiggiplasencia0823@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giluchipla0823/angular-swiperjs/issues"
+  },
+  "homepage": "https://github.com/giluchipla0823/angular-swiperjs#readme",
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
